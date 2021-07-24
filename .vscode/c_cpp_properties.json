@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "AVR",
+            "intelliSenseMode": "${default}",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "compilerPath": "/home/pp/Downloads/avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc",
+            "includePath": [],
+            "compilerArgs": [
+                "-mmcu=atmega328",
+                "-DF_CPU=16000000UL"
+            ]
+        }
+    ],
+    "version": 4
+}
